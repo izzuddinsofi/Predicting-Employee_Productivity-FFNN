@@ -108,7 +108,6 @@ x_test = scaler.transform(x_test)
 #8. Build NN model
 no_input= x_train.shape[-1]
 
-# Use functional API
 model = keras.Sequential()
 model.add(layers.InputLayer(input_shape=no_input))
 model.add(layers.Dense(64, activation='relu'))

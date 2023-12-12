@@ -1,4 +1,4 @@
-# Diamond Price Prediction Using Feedforward Neural Network
+# Employee Productivity Prediction using FNN
 ## 1. Summary
 The purpose of this project is to create an accurate deep learning model to predict the actual productivity of employees (It can anticipate promotions, transfers and firing of employees in advance). The model is trained with dataset from [Productivity Prediction of Garment Employees](https://www.kaggle.com/datasets/ishadss/productivity-prediction-of-garment-employees).
 
